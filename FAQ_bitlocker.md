@@ -6,5 +6,12 @@ When you access your data, Windows normally has protections associated with your
 
 https://support.microsoft.com/en-us/windows/bitlocker-overview-44c0c61c-989d-4a69-8822-b95cd49b1bbf
 
-# What's Bitlocker Recovery Key
+# What's Bitlocker Recovery Key?
+
 A BitLocker recovery key is a unique 48-digit numerical password that can be used to unlock an encrypted drive.
+
+# Why is Windows asking for recovery key?
+
+Windows requires a BitLocker recovery key when it detects a possible unauthorized attempt to access the data.
+
+This can also happen if you make changes to the hardware, firmware, or software, which BitLocker cannot distinguish from a possible attack.
