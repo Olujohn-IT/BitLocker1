@@ -13,3 +13,10 @@ Another feature *Code Integrity Rooting* was designed to validate the integrity 
 BitLocker was briefly called **Secure Startup** before Windows Vista's release to manufacturing.
 
 https://www.youtube.com/watch?v=iX8QC2pRuYM
+
+# How Bitlocker works
+
+BitLocker uses a specialized chip called a **Trusted Platform Module (TPM)**
+TPM stores Rivest-Shamir-Adleman encryption keys specific to the host system for hardware authentication.
+
+https://www.techtarget.com/searchenterprisedesktop/definition/BitLocker
