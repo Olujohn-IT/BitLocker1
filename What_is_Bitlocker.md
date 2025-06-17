@@ -32,3 +32,8 @@ https://www.techtarget.com/searchenterprisedesktop/definition/BitLocker
   - Enable BitLocker
 
 [How to](https://superops.com/blog/bitlocker-encryption-windows-10)
+
+# Why you need Bitlocker
+
+BitLocker ensures that only you (or someone with whom you’ve shared your BitLocker recovery key) can access the files on your PC.
+
